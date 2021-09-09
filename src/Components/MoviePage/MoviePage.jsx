@@ -36,10 +36,9 @@ class MoviePage extends Component {
         autoplay: 1,
       },
     };
-    if(props.location.state){
     let { title, tagline, vote_average, poster_path, overview } =
       this.props.location.state;
-    }
+
     return (
       <div className="movie-page">
         <div className="movie-page-poster">
