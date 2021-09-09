@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NetFlix%20%20/static/css/main.206f15ed.chunk.css",
+    "main.js": "/NetFlix%20%20/static/js/main.d7880c4f.chunk.js",
+    "main.js.map": "/NetFlix%20%20/static/js/main.d7880c4f.chunk.js.map",
+    "runtime-main.js": "/NetFlix%20%20/static/js/runtime-main.02869c0b.js",
+    "runtime-main.js.map": "/NetFlix%20%20/static/js/runtime-main.02869c0b.js.map",
+    "static/js/2.2a73781b.chunk.js": "/NetFlix%20%20/static/js/2.2a73781b.chunk.js",
+    "static/js/2.2a73781b.chunk.js.map": "/NetFlix%20%20/static/js/2.2a73781b.chunk.js.map",
+    "index.html": "/NetFlix%20%20/index.html",
+    "static/css/main.206f15ed.chunk.css.map": "/NetFlix%20%20/static/css/main.206f15ed.chunk.css.map",
+    "static/js/2.2a73781b.chunk.js.LICENSE.txt": "/NetFlix%20%20/static/js/2.2a73781b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02869c0b.js",
+    "static/js/2.2a73781b.chunk.js",
+    "static/css/main.206f15ed.chunk.css",
+    "static/js/main.d7880c4f.chunk.js"
+  ]
+}
